@@ -55599,5 +55599,12 @@
     "author": "Nick",
     "description": "Sync file contents with Google Drive using AES-256-GCM encryption, with encryption keys kept on your device. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "explor3universe/ObsidianE2EGDriveSync"
+  },
+  {
+    "id": "confluence-vault-uploader",
+    "name": "Confluence Vault Uploader",
+    "author": "stephenkall",
+    "description": "Sync your vault to Confluence, preserving folder structure as a page hierarchy with working cross-page links.",
+    "repo": "stephenkall/obsidian-confluence-vault-uploader"
   }
 ]
